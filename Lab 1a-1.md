@@ -28,3 +28,25 @@ Here is a photo of me verifing that the local repository is connected to the Git
 
 I used the git remote -v command to verify that the cloned repository was successfully linked to the correct GitHub remote. The output displayed the repository URL for both fetching and pushing changes confirming that Git was configured correctly.
 
+
+Challenges Faced
+
+I ran into issues with Ubuntu not booting properly on VirtualBox, including freezing and long loading times. I also had some confusion at the start with VM settings and network configuration. These issues were eventually solved by switching to VMware which worked more smoothly and was way more stable.
+
+
+What I Learned
+
+From this lab, i learned how virtualization allows multiple operating systems to run on one physical machine. I also understood the differences between VirtualBox and VMware especially in terms of stability and performance.
+In addition, i gained hands-on experience setting up a linux environment, configuring basic network settings and using Git and GitHub for version control. It was not easy but i think it helped me to gain a better understanding on downloading stuff.
+
+
+Reflection
+
+This lab helped me to become more confident in using Ubuntu and working with virtual machines. Even though I faced technical problems during setup, troubleshooting them helped me understand virtualization better.
+It also gave me a clearer idea of how linux is used in real IT environments like system administration and software development. If i were to do this lab again, i would double-check the VM settings and system requirements before starting to avoid installation issues.
+
+
+Conclusion
+
+I was able to successfully install and configure an Ubuntu virtual machine using VMware. This lab gave me a solid introduction to linux environments, virtualization and basic system setup which will be useful for future labs and IT work.
+
