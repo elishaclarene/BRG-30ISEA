@@ -1,51 +1,24 @@
-Lab 1a-1 
+# BRG-30ISEA Linux Labs
 
-Overview
-This lab was to set up a linux environment using virtualization software. The goal was to successfully install and configure a virtual machine running Ubuntu linux and to understand the basics of virtualisation, installation steps and network configuration.
+## Overview
 
-Tools that I used in the process:
-VMware Workstation (VirtualBox was attempted at first), Ubuntu Desktop ISO, Git and GitHub
+This repository contains the documentation, screenshots and evidence of the practical activities completed for the BRG-30ISEA module. Each lab is documented separately to demonstrate the tasks completed, commands used and outcomes achieved throughout the module.
 
-I first downloaded and installed VirtualBox and tried to set up a virtual machine with Ubuntu. However, Ubuntu was having booting and loading issues on VirtualBox and could not run properly. It seemed like it was a hypervisor-related compatibility issue with my computer hence why it was having a lot of issue with trying to run Ubuntu in VirtualBox. It had caused the virtual machine to freeze during the boot process for a very long time. I eventually was advised to switch to VMware Workstation which helped me resolved the problem, indicating that the issue was related to the virtualization platform rather than the Ubuntu installation itself.
+## Completed Labs
 
-<img width="500" height="350" alt="photo_6217736004970418368_w (1)" src="https://github.com/user-attachments/assets/f56308b1-2810-4f46-87bb-6224d1c30ff1" />
-<img width="500" height="350" alt="photo_6217736004970418369_w (1)" src="https://github.com/user-attachments/assets/2cc78636-86b4-4f9f-8f01-805c5647ea16" />
+ Lab 1A-1 – Installing a Linux Environment
+ 
+ Lab 1A-2 – Ubuntu Desktop and CLI Familiarisation
 
+ Lab 1B-1
+ 
+ Lab 1B-2
+ 
+ Lab 1B-3
+ 
+ Lab 2A-1
+ 
+ Lab 2B-1
+ 
+ Lab 2B-2A
 
-Because of the technical issues i faced, i decided to use VMware Workstation instead. 
-By using VMware, I successfully created a new virtual machine and installed Ubuntu without issues. After installation, i configured the network settings using NAT so the VM could access the internet.
-
-<img width="500" height="350" alt="Screenshot From 2026-07-04 18-42-35" src="https://github.com/user-attachments/assets/06025fe0-8f96-406d-ba06-e6bccfa24dd3" />
-
-
-Once my Ubuntu was finally running properly, i installed Git inside the system. I then created a GitHub repository and cloned it into the Linux environment for documentation purposes. 
-
-<img width="500" height="400" alt="photo_6219962228253855846_w" src="https://github.com/user-attachments/assets/f36aee01-5e95-48b0-8377-77d75c6eb454" />
-
-Here is a photo of me verifing that the local repository is connected to the GitHub remote repository using git remote -v.
-
-<img width="500" height="350" alt="Screenshot From 2026-07-05 19-41-32" src="https://github.com/user-attachments/assets/cc593f5c-410f-4b6a-8ef3-a67211f21a17" />
-
-I used the git remote -v command to verify that the cloned repository was successfully linked to the correct GitHub remote. The output displayed the repository URL for both fetching and pushing changes confirming that Git was configured correctly.
-
-
-Challenges Faced
-
-I ran into issues with Ubuntu not booting properly on VirtualBox, including freezing and long loading times. I also had some confusion at the start with VM settings and network configuration. These issues were eventually solved by switching to VMware which worked more smoothly and was way more stable.
-
-
-What I Learned
-
-From this lab, i learned how virtualization allows multiple operating systems to run on one physical machine. I also understood the differences between VirtualBox and VMware especially in terms of stability and performance.
-In addition, i gained hands-on experience setting up a linux environment, configuring basic network settings and using Git and GitHub for version control. It was not easy but i think it helped me to gain a better understanding on downloading stuff.
-
-
-Reflection
-
-This lab helped me to become more confident in using Ubuntu and working with virtual machines. Even though I faced technical problems during setup, troubleshooting them helped me understand virtualization better.
-It also gave me a clearer idea of how linux is used in real IT environments like system administration and software development. If i were to do this lab again, i would double-check the VM settings and system requirements before starting to avoid installation issues.
-
-
-Conclusion
-
-I was able to successfully install and configure an Ubuntu virtual machine using VMware. This lab gave me a solid introduction to linux environments, virtualization and basic system setup which will be useful for future labs and IT work.
