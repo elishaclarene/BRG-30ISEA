@@ -1,1 +1,10 @@
+The objective of this lab was to get familiar with the Ubuntu operating system by using both the graphical user interface (GUI) and the command-line interface (CLI). Throughout the lab, I learned how to perform basic file operations, understand user permissions, use simple networking and system information commands and install software using different methods.
+
+For Part 1 
+I explored the Ubuntu desktop environment by opening firefox as well using LibreOffice Writer to create a document, navigating folders with the files application and accessing the Ubuntu App Center. This helped me become familiar with the Ubuntu graphical interface and its built-in applications.
+
+In the photo shown here is me trying to make a document in LibreOffice Writer using Ubuntu.
+
+
+
 
