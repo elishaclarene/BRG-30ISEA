@@ -26,6 +26,12 @@ Once Ubuntu was running properly, i installed Git inside the system. I then crea
 
 <img width="500" height="400" alt="photo_6219962228253855846_w" src="https://github.com/user-attachments/assets/f36aee01-5e95-48b0-8377-77d75c6eb454" />
 
+Here is a photo of me verifing that the local repository is connected to the GitHub remote repository using git remote -v.
+
+<img width="500" height="350" alt="Screenshot From 2026-07-05 19-41-32" src="https://github.com/user-attachments/assets/cc593f5c-410f-4b6a-8ef3-a67211f21a17" />
+
+I used the git remote -v command to verify that the cloned repository was successfully linked to the correct GitHub remote. The output displayed the repository URL for both fetching and pushing changes confirming that Git was configured correctly.
+
 
 Challenges Faced
 
