@@ -123,6 +123,8 @@ This was the result that i got:
 Next i did the same thing with the clone which i will refer to as "VM2"
 Results : 
 
+<img width="500" height="350" alt="Screenshot From 2026-07-06 15-40-01" src="https://github.com/user-attachments/assets/b69bff8d-fbe2-4410-8cc5-00e4d419c071" />
+
 
 After i found the IP of both VM, I went on VM1 and ping VM2.
 Results : 
@@ -132,3 +134,6 @@ Results :
 
 I also did the same thing but this time i ping VM1 in VM2.
 Results : 
+
+<img width="500" height="350" alt="Screenshot From 2026-07-06 15-41-40" src="https://github.com/user-attachments/assets/a44ecafb-4204-4b55-9c15-d67d8c478603" />
+
