@@ -101,7 +101,7 @@ I attempted to launch gedit over SSH. Although the command started, no graphical
 ### Challenge 3 : 
 
 For challenge 3 i had to use "scp file.txt user@host:/destination/" to send a file over the network. 
-In this i did "TEST1.txt" 
+In this case i did "TEST1.txt" 
 
 <img width="500" height="350" alt="Screenshot From 2026-07-06 11-52-36" src="https://github.com/user-attachments/assets/c366bad1-7407-4b26-8bdc-3b8f64f327a4" />
 
