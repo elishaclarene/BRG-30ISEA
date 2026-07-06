@@ -47,7 +47,10 @@ Next was to create a new user.
 Photo:
 
 <img width="722" height="464" alt="Screenshot From 2026-07-06 00-29-56" src="https://github.com/user-attachments/assets/07c7a0bb-4147-4d49-acd5-300bd44ec114" />
-one more pic
+SSH ip@user photo: 
+
+<img width="653" height="504" alt="Screenshot From 2026-07-06 12-13-47" src="https://github.com/user-attachments/assets/46bcf8e4-65f4-49ae-af36-24c7f1c83e89" />
+
 
 
 
