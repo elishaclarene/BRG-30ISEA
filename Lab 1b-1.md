@@ -35,6 +35,13 @@ Here are the photos:
 <img width="500" height="350" alt="Screenshot From 2026-07-06 00-10-08 (1)" src="https://github.com/user-attachments/assets/15a63710-7329-49c7-98d4-f46514263c09" />
 
 
+Now UFW firewall 
+
+Photo: 
+
+<img width="722" height="464" alt="Screenshot From 2026-07-06 00-13-37" src="https://github.com/user-attachments/assets/75e4eab7-39e7-427a-a154-31e1269895cd" />
+
+
 
 
 
