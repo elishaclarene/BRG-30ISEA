@@ -12,7 +12,7 @@ This repository contains the documentation, screenshots and evidence of the prac
 
  Lab 1B-1 - Linux Services, SSH, Firewalls & Compression
  
- Lab 1B-2
+ Lab 1B-2 - Linux File Permissions and Group Access Control
  
  Lab 1B-3
  
