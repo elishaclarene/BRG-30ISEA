@@ -1,4 +1,4 @@
-Lab 1b-1 
+## Lab 1b-1 
 
 Overview
 This lab focuses on building practical skills in Linux system administration, networking and secure communication using a virtual machine environment. This lab activity has taught me how a Linux server can be managed and accessed remotely through different networking tools and services.
@@ -78,4 +78,57 @@ After that i had to decompress using "bunzip2" then extract "tar -xvf"
 
 
 
+## Challenge Activities 
 
+### Challenge 1 : 
+As i did not have a partner machine, i used SSH to access my Ubuntu virtual machine from my host system and created a file remotely using the command line. This demonstrated how SSH allows remote system management through terminal access.
+
+Here is a photo of me creating a file. "Hi labuser" :
+
+<img width="505" height="351" alt="Screenshot 2026-07-06 105119" src="https://github.com/user-attachments/assets/a38b8086-3d34-4758-974c-d5494fb7cc34" />
+<img width="505" height="355" alt="Screenshot 2026-07-06 110528" src="https://github.com/user-attachments/assets/d2126bce-3d58-46f7-b81d-916330bdcb31" />
+
+
+
+### Challenge 2 : 
+
+I attempted to launch gedit over SSH. Although the command started, no graphical window appeared because SSH provides terminal access only. Graphical applications require access to a display server (or X11 forwarding) which was not configured so gedit could not be used remotely. 
+
+<img width="500" height="350" alt="Screenshot From 2026-07-06 11-10-59" src="https://github.com/user-attachments/assets/aed92df2-b760-4c85-8649-50c84abb2dcf" />
+
+
+
+### Challenge 3 : 
+
+For challenge 3 i had to use "scp file.txt user@host:/destination/" to send a file over the network. 
+In this i did "TEST1.txt" 
+
+<img width="500" height="350" alt="Screenshot From 2026-07-06 11-52-36" src="https://github.com/user-attachments/assets/c366bad1-7407-4b26-8bdc-3b8f64f327a4" />
+
+
+## Virtual NetWorking
+For this part i had to clone my VM 
+
+Here is a photo of me successfully cloning my VM:
+
+<img width="498" height="467" alt="Screenshot 2026-07-06 120133" src="https://github.com/user-attachments/assets/306cd7f0-9969-4226-a7ea-1de07cb86a7a" />
+
+I made sure that both was using the same NAT network adaptor before i procceded. 
+
+By using my main VM first which i will refer to as "VM1". I checked its IP by using "ip a" 
+This was the result that i got: 
+
+<img width="500" height="350" alt="Screenshot From 2026-07-06 12-05-41" src="https://github.com/user-attachments/assets/bbef5ed7-dde4-42c2-bc20-7978cbb6f91a" />
+
+Next i did the same thing with the clone which i will refer to as "VM2"
+Results : 
+
+
+After i found the IP of both VM, I went on VM1 and ping VM2.
+Results : 
+
+<img width="500" height="350" alt="Screenshot From 2026-07-06 12-08-57" src="https://github.com/user-attachments/assets/04f1f124-2355-4d39-a82f-e9f4649343f8" />
+
+
+I also did the same thing but this time i ping VM1 in VM2.
+Results : 
