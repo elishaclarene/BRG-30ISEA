@@ -137,3 +137,6 @@ Results :
 
 <img width="500" height="350" alt="Screenshot From 2026-07-06 15-41-40" src="https://github.com/user-attachments/assets/a44ecafb-4204-4b55-9c15-d67d8c478603" />
 
+
+### Reflection 
+This lab helped me understand how different Linux features work together to keep a system secure and efficient. I learned that a firewall helps manage which services and ports can be accessed, reducing the risk of unauthorised connections. Using SSH gave me a better understanding of how Linux can be used as a server as i was able to access and manage the system remotely without being physically at the machine. I also realised that file compression is useful because it reduces file sizes making it easier and faster to store and transfer over a network. Lastly, creating different user accounts showed me how user privilege management improves security by limiting what each user can access or modify, helping to protect important system files and settings.
