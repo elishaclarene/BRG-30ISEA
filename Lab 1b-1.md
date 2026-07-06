@@ -42,6 +42,14 @@ Photo:
 <img width="722" height="464" alt="Screenshot From 2026-07-06 00-13-37" src="https://github.com/user-attachments/assets/75e4eab7-39e7-427a-a154-31e1269895cd" />
 
 
+Next was to create a new user. 
+
+Photo:
+
+<img width="722" height="464" alt="Screenshot From 2026-07-06 00-29-56" src="https://github.com/user-attachments/assets/07c7a0bb-4147-4d49-acd5-300bd44ec114" />
+one more pic
+
+
 
 
 
