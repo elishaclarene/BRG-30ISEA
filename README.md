@@ -10,7 +10,7 @@ This repository contains the documentation, screenshots and evidence of the prac
  
  Lab 1A-2 – Ubuntu Desktop and CLI Familiarisation
 
- Lab 1B-1
+ Lab 1B-1 - Linux Services, SSH, Firewalls & Compression
  
  Lab 1B-2
  
