@@ -1,4 +1,4 @@
-Lab 1a-2 
+## Lab 1a-2 
 
 The objective of this lab was to get familiar with the Ubuntu operating system by using both the graphical user interface (GUI) and the command-line interface (CLI). Throughout the lab, I learned how to perform basic file operations, understand user permissions, use simple networking and system information commands and install software using different methods.
 
