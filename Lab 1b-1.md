@@ -3,7 +3,7 @@ Lab 1b-1
 Overview
 This lab focuses on building practical skills in Linux system administration, networking and secure communication using a virtual machine environment. This lab activity has taught me how a Linux server can be managed and accessed remotely through different networking tools and services.
 
-Starting off, i to down Apeche using "sudo apt install apeche2" and tested on my browser on http://127.0.0.1
+Starting off, i had to download Apeche using "sudo apt install apeche2" and tested on my browser on http://127.0.0.1
 
 Here are the photos of me downloading and testing :
 
