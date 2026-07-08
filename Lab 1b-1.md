@@ -1,6 +1,7 @@
 ## Lab 1b-1 
 
 Overview
+
 This lab focuses on building practical skills in Linux system administration, networking and secure communication using a virtual machine environment. This lab activity has taught me how a Linux server can be managed and accessed remotely through different networking tools and services.
 
 
@@ -62,16 +63,20 @@ Next was to download the wget files
 
 Photo of me downloading successfully: 
 
-<img width="500" height="350" alt="Screenshot From 2026-07-06 00-46-36" src="https://github.com/user-attachments/assets/2e16169e-d7ce-4310-9bf2-77c844f2395c" />
+<img width="556" height="367" alt="Screenshot 2026-07-08 183944" src="https://github.com/user-attachments/assets/de5eb366-d705-436f-8295-cbfcb4b01d5d" />
 
-After that, I created a directory called books and used the tar command to create an archive of the files in that folder.
 
-<img width="500" height="350" alt="Screenshot From 2026-07-06 00-47-43" src="https://github.com/user-attachments/assets/7f65a026-8fff-416c-adf8-fb4687141f85" />
-<img width="500" height="350" alt="Screenshot From 2026-07-06 00-48-30" src="https://github.com/user-attachments/assets/09a2f411-6025-49fd-a32c-5524b4aba6b7" />
 
-Then i had to compress with "bzip.2 book.tar" 
+After that, I created a directory called books and used the tar command to create an archive of the files in that folder.  
 
-<img width="500" height="350" alt="Screenshot From 2026-07-06 00-49-20" src="https://github.com/user-attachments/assets/e4f3d27a-17a4-4318-acfd-8a98bdb5e556" />
+<img width="552" height="365" alt="Screenshot 2026-07-08 184058" src="https://github.com/user-attachments/assets/a49f5073-2beb-4883-a680-a7046f349d28" />
+<img width="552" height="360" alt="Screenshot 2026-07-08 184118" src="https://github.com/user-attachments/assets/db4788bd-fd09-43e4-8e57-65c0b7a13032" />
+
+
+Then i had to compress with "bzip.2 book.tar" hereeeee
+
+<img width="552" height="363" alt="Screenshot 2026-07-08 184333" src="https://github.com/user-attachments/assets/c4942f28-a59c-4a15-ac3f-fd732b27834a" />
+
 
 After that i had to decompress using "bunzip2" then extract "tar -xvf"
 
