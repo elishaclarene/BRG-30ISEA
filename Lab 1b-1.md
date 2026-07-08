@@ -75,7 +75,8 @@ Then i had to compress with "bzip.2 book.tar"
 
 After that i had to decompress using "bunzip2" then extract "tar -xvf"
 
-<img width="500" height="404" alt="Screenshot From 2026-07-06 00-50-30" src="https://github.com/user-attachments/assets/b05bf793-cc8a-42fa-992e-724c84e66fbe" />
+<img width="500" height="425" alt="Screenshot 2026-07-08 182131" src="https://github.com/user-attachments/assets/2bc13b7d-eb98-4823-9bb9-f05f27604f15" />
+
 
 
 
