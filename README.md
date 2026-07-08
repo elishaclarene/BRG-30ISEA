@@ -18,7 +18,7 @@ This repository contains the documentation, screenshots and evidence of the prac
  
  Lab 2A-1 - Total cost of ownership (TCO) analysis 
  
- Lab 2B-1 -
+ Lab 2B-1 - Cloud Web Server Deployment with Amazon EC2 
  
  Lab 2B-2A -  Introduction to Bash scripting & system automation 
 
