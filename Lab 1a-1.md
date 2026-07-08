@@ -1,9 +1,11 @@
 ## Lab 1a-1 
 
 Overview
+
 This lab was to set up a linux environment using virtualization software. The goal was to successfully install and configure a virtual machine running Ubuntu linux and to understand the basics of virtualisation, installation steps and network configuration.
 
 Tools that I used in the process:
+
 VMware Workstation (VirtualBox was attempted at first), Ubuntu Desktop ISO, Git and GitHub
 
 I first downloaded and installed VirtualBox and tried to set up a virtual machine with Ubuntu. However, Ubuntu was having booting and loading issues on VirtualBox and could not run properly. It seemed like it was a hypervisor-related compatibility issue with my computer hence why it was having a lot of issue with trying to run Ubuntu in VirtualBox. It had caused the virtual machine to freeze during the boot process for a very long time. I eventually was advised to switch to VMware Workstation which helped me resolved the problem, indicating that the issue was related to the virtualization platform rather than the Ubuntu installation itself.
