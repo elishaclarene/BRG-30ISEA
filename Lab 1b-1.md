@@ -50,7 +50,8 @@ Next step was to create a new user and i have named it labuser
 
 Photo:
 
-<img width="722" height="464" alt="Screenshot From 2026-07-06 00-29-56" src="https://github.com/user-attachments/assets/07c7a0bb-4147-4d49-acd5-300bd44ec114" />
+<img width="700" height="400" alt="Screenshot 2026-07-08 181913" src="https://github.com/user-attachments/assets/8bcfc9c2-b88d-47e7-86d4-0243c5687065" />
+
 
 Here is also a photo of me using SSH username@ip:
 
