@@ -24,7 +24,7 @@ This repository contains the documentation, screenshots and evidence of the prac
  
  Lab 3A-1 - Domain, DNS and TLS Certificates with Let's Encrypt 
 
- Lab 3A-2 -
+ Lab 3A-2 - Enabling HTTPS with Let's Encrypt & Certbot 
 
  Lab 3B-1 -
 
