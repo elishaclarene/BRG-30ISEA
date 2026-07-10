@@ -28,5 +28,5 @@ This repository contains the documentation, screenshots and evidence of the prac
 
  Lab 3B-1 - Bash backup scripting, Cron jobs and Cloud export 
 
- Lab 3B-2 -
+ Lab 3B-2 -  Additional server setup (Ubuntu on WSL)
 
