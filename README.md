@@ -20,13 +20,13 @@ This repository contains the documentation, screenshots and evidence of the prac
  
  Lab 2B-1 - Cloud Web Server Deployment with Amazon EC2 
  
- Lab 2B-2A - Introduction to Bash scripting & system automation 
+ Lab 2B-2A - Introduction to Bash scripting and system automation 
  
  Lab 3A-1 - Domain, DNS and TLS Certificates with Let's Encrypt 
 
- Lab 3A-2 - Enabling HTTPS with Let's Encrypt & Certbot 
+ Lab 3A-2 - Enabling HTTPS with Let's Encrypt and Certbot 
 
- Lab 3B-1 -
+ Lab 3B-1 - Bash backup scripting, Cron jobs and Cloud export 
 
  Lab 3B-2 -
 
